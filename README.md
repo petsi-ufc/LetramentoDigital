@@ -25,4 +25,7 @@ pandemia da COVID-19.
 
 A experiência deste curso foi relatada no artigo intitulado [*A Experiência do Letramento Digital para Professores Municipais do Ensino Básico Durante a Pandemia COVID-19*](https://sol.sbc.org.br/index.php/wie/article/view/17845) publicado nos anais XXVII WORKSHOP DE INFORMÁTICA NA ESCOLA. 
 
+### Material
 
+* [Apostila - Google Drive]()
+* [Apostila - Google docs e forms]()
