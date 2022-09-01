@@ -28,4 +28,4 @@ A experiência deste curso foi relatada no artigo intitulado [*A Experiência do
 ### Material
 
 * [Apostila - Google Drive](https://github.com/petufc/LetramentoDigital/blob/main/Apostila%20-%20Google%20Drive.pdf)
-* [Apostila - Google docs e forms](https://github.com/petufc/LetramentoDigital/blob/main/Apostila%20-%20Google%20docs%20e%20forms.pdf
+* [Apostila - Google docs e forms](https://github.com/petufc/LetramentoDigital/blob/main/Apostila%20-%20Google%20docs%20e%20forms.pdf)
